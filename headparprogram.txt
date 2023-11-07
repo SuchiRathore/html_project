@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+<head>
+<title> welcome </title>
+</head>
+<body>
+<h1> Earth </h1>
+<p>Earth is the third planet from the Sun and the only place known in the universe where life has origina
+ted and found habitability. While Earth may not contain the largest volumes of water in the Solar System, only Earth 
+sustains liquid surface water, extending over 70.8% of the planet with its ocean, making it an ocean world. The polar 
+regions currently retain most of all other water with large sheets of ice covering ocean and land, dwarfing Earth's 
+groundwater, lakes, rivers and atmospheric water.<br>
+The other 29.2% of the Earth's surface is land, consisting of continents and islands, and is widely covered by 
+vegetation. Below the planet's surface lies the crust, consisting ofseveral slowly moving tectonic plates, which
+interact to produce mountain ranges, volcanoes, and earthquakes.</P> 
+
+<h2> Flowers </h2>
+
+<h3> Fruits </h3>
+
+<h4> Animals </h4>
+
+<h5> India</h5>
+
+<h6> Sports </h6>
+
+</body>
+
+
+
+
+
+
+</html>

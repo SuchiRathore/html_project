@@ -1,0 +1,43 @@
+<html>
+    <body>
+        <h3 class =  "demo" style ="color : green"></h3>
+        <h3 class = "demo"></h3>
+        <p>hello</p>
+    </body>
+        <script>
+            let a ;
+            let b ;
+            let c ;
+           let res;
+
+          a = parseInt(prompt("Enter the first number"));
+          b = parseInt(prompt("Enter the second number"));
+          c = parseInt(prompt("Enter the third number"));
+
+          res = (a>b  && a>c) ? a : (b>c) ? b : c ; 
+          //document.write("Result is :" +res);
+
+          document.getElementsByClassName("demo")[0].innerHTML= "largest number :" +res;
+          document.getElementsByClassName("demo")[1].innerHTML= "largest number :" +res;
+          document.getElementsByClassName("demo")[0].style.background= "yellow";
+          document.getElementsByClassName("demo")[1].style.background= "yellow";
+          document.getElementsByTagName("p")[0].style.color= "blue";
+          document.getElementsByClassName("demo")[0].style.fontSize= "50px";
+          document.getElementsByClassName("demo")[1].style.fontStyle= "italic";
+          document.getElementsByClassName("demo")[0].style.fontWeight= "bold";
+          //document.getElementsByClassName("demo")[0].style.color= "yellow";
+          
+          
+
+
+
+
+
+
+
+          </script> 
+</html>
+    
+
+
+    
